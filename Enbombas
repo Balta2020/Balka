@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF: 1, TELECADENA
+https://bcovlive-a.akamaihd.net:443/825f39eaa17d4794a3898945026556e0/us-west-2/6056665196001/profile_0/chunklist.m3u8
+#EXTINF: 1, Movistar LaLiga
+http://31.220.3.170:2095/live/hXZp0zPK/djDM7bPC%20/48768.m3u8?SBN
+#EXTINF: 1, Sportv 1
+http://5.182.229.75:8080/2528/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, Sportv 2
+http://5.182.229.75:8080/2526/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, Sportv 3
+http://5.182.229.75:8080/2527/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, Sportv 5
+http://5.182.229.75:8080/2529/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, Sportv 6
+http://5.182.229.75:8080/2530/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, Digi Sport 1
+http://5.182.229.75:8080/2523/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, Digi Sport 2
+http://5.182.229.75:8080/2522/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, Digi Sport 3
+http://5.182.229.75:8080/2524/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, Digi Sport 4
+http://5.182.229.75:8080/2538/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, ElevenSport1 Por
+http://5.182.229.75:8080/2531/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, ElevenSport2 Por
+http://5.182.229.75:8080/2517/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, ElevenSport3 Por
+http://5.182.229.75:8080/2533/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, ElevenSport4 Por
+http://5.182.229.75:8080/2536/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, Sport2 Ing
+http://5.182.229.75:8080/2540/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, RCM 1
+http://5.182.229.75:8080/2545/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, RCM 2
+http://5.182.229.75:8080/2546/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, RCM 3
+http://5.182.229.75:8080/2547/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, Sport 1
+http://5.182.229.75:8080/2548/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, ESPN USA
+http://5.182.229.75:8080/2550/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, ESPN 2 USA
+http://5.182.229.75:8080/2553/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, ESPN 1 Holan
+http://5.182.229.75:8080/2552/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, ESPN 2 Holan
+http://5.182.229.75:8080/2553/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, ESPN 4 Holan
+http://5.182.229.75:8080/2554/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, NovaSports 2
+http://5.182.229.75:8080/2556/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, Ziggo Select
+http://5.182.229.75:8080/2560/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, Ziggo Voeball
+http://5.182.229.75:8080/2561/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, BeinSport Direct
+http://5.182.229.75:8080/2499/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, BeinSport2 Direct
+http://5.182.229.75:8080/2500/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, SkySports1 Aus
+http://5.182.229.75:8080/2492/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, SkySports Bundes
+http://5.182.229.75:8080/2480/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, BeinSport3 FR
+http://5.182.229.75:8080/2501/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, BeinSport Xtra 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
+#EXTINF: 1, Ciudad Magica
+https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
+#EXTINF: 1, TYC SPORTS 2
+https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+#EXTINF: 1, TYC SPORTS 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
+#EXTINF: 1, TYC SPORTS 4
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+#EXTINF: 1, TYC SPORTS 5
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+#EXTINF: 1, TYC SPORTS 6
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+#EXTINF: 1, TYC SPORTS 7
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
+#EXTINF: 1, TYC SPORTS 8
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+#EXTINF: 1, TYC SPORTS 9
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF: 1, TYC SPORTS 10
+https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
+#EXTINF: 1, FreeSports
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+#EXTINF: 1, Sport 1
+https://95-213-224-183.livesports24.online/sport1ua.m3u8
+#EXTINF: 1, Arena Sport 3
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/273415
+#EXTINF: 1, Astro Arena
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF: 1, BT Sport 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8?SBN
+#EXTINF: 1, BT Sport 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8?SBN
+#EXTINF: 1, BT Sport 3
+http://93.152.174.144:4000/play/btsport3/index.m3u8?SBN
+#EXTINF: 1, TV Sports
+http://5.182.229.75:8080/2520/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, Canal+Sport Pol
+http://5.182.229.75:8080/2519/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, OneTime Sports
+http://5.182.229.75:8080/2512/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, Foot+ Fran
+http://5.182.229.75:8080/2544/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, Canal+ Fran
+http://5.182.229.75:8080/2502/tracks-v1a1/mono.m3u8?SBN
+#EXTINF: 1, Spor5t
+http://5.182.229.75:8080/2558/tracks-v1a1/mono.m3u8?SBN
